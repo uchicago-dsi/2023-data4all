@@ -1,4 +1,13 @@
 ### Data 4 All
 
-[Click here to open it on your JupyterHub](https://data4all-jupyterhub.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fuchicago-dsi%2F2023-data4all&urlpath=lab%2Ftree%2F2023-data4all%2FREADME.md&branch=published)
+[Click here to access Notebook 1](https://colab.research.google.com/github/uchicago-dsi/2023-data4all/blob/colab/Notebook_1.ipynb)
 
+[Click here to access Notebook 2a](https://colab.research.google.com/github/uchicago-dsi/2023-data4all/blob/colab/Notebook_2a.ipynb)
+
+[Click here to access Notebook 2b](https://colab.research.google.com/github/uchicago-dsi/2023-data4all/blob/colab/Notebook_2b.ipynb)
+
+[Click here to access Notebook 3](https://colab.research.google.com/github/uchicago-dsi/2023-data4all/blob/colab/Notebook_3.ipynb)
+
+[Click here to access Notebook 4a](https://colab.research.google.com/github/uchicago-dsi/2023-data4all/blob/colab/Notebook_4a.ipynb)
+
+[Click here to access Notebook 4b](https://colab.research.google.com/github/uchicago-dsi/2023-data4all/blob/colab/Notebook_4b.ipynb)
